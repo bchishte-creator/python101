@@ -32,9 +32,9 @@
 #Example 4
 
 
-num = int (input("Enter a number: "))
+# num = int (input("Enter a number: "))
 
-while num < 1 or num > 10: 
-    print(f"{num} is not between 1 and 10")
-    num = int(input("Enter a # between 1 -10: "))
-print(f"Your nuber is {num}!")
+# while num < 1 or num > 10: 
+#     print(f"{num} is not between 1 and 10")
+#     num = int(input("Enter a # between 1 -10: "))
+# print(f"Your nuber is {num}!")
